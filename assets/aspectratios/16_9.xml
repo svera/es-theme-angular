@@ -37,7 +37,7 @@ license:		creative commons CC-BY-NC-SA
 	<view name="basic">
 		
 		<image name="none" extra="true">
-			<path>./assets/default.png</path>
+			<path>./../default.png</path>
 			<zIndex>69</zIndex>
 			<pos>0 0</pos>
 			<size>0.6 1</size>
