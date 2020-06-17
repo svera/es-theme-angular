@@ -9,6 +9,5 @@ license:		creative commons CC-BY-NC-SA
 <theme>
 	<formatVersion>4</formatVersion>
 	
-	<include>./systems/arcade.xml</include>
-
+	<include>./systems/${system.theme}.xml</include>
 </theme>

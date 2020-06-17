@@ -9,6 +9,7 @@ license:		creative commons CC-BY-NC-SA
 <theme>
 	<formatVersion>4</formatVersion>
 	
-	<include>./../companies/sega.xml</include>
-	
+	<variables>
+		<systemColor>17569b</systemColor>
+	</variables>	
 </theme>
