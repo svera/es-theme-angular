@@ -6,7 +6,7 @@ using custom collections.
 ROM files must be put in the `arcade` folder. Use `opt/retropie/configs/all/emulators.cfg` to override the default emulator
 for a specific romname.  
 
-Supported collecions are:
+Supported collections are:
 
 * Action
 * Beat 'em up'
